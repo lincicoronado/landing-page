@@ -59,3 +59,21 @@ img {
     border-radius: 8px;
     padding: 8px 16px;
 }
+.quote {
+    
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font: 36px;
+    padding: 100px 200px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.dash {
+    font-weight: bold;
+    font-size: 48px;
+    text-align: right;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
